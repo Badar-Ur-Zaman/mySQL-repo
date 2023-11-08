@@ -1,5 +1,7 @@
--- Just practicing
+-- Just practicing :)
 -- LIKE, JOINS, GROUP BY, ORDER BY, AVG, COUNT, LIMIT
+-- I'm Using SAKILA DATABSE
+-- You can find it on google :)
 
 
 -- Which actors have first_name "Scarlett"?
